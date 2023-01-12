@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duduzera006, i live in Brazil and work remotely from home
+- 👋 Hi, I’m @DuduSapede, i live in Brazil and work remotely from home
 - 👀 I’m interested in learning new things everyday as well as getting a job
 - 🌱 I’m currently learning .NET development and C# as my main programming language
 - 💞️ I’m looking to collaborate on new projects to boost my carrer
